@@ -1,4 +1,4 @@
-module github.com/mdwhatcott/botsay
+module github.com/mdw-go/botsay
 
 go 1.19
 

@@ -5,7 +5,7 @@ This is a variation on [cowsay](https://github.com/tnalpgge/rank-amateur-cowsay)
 ## Usage
 
 ```
-$ go get -u github.com/mdwhatcott/botsay
+$ go get -u github.com/mdw-go/botsay
 
 $ botsay -help 2>&1 | botsay
    __________________________________________
